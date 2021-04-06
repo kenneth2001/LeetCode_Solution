@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode Solution
 
 | # | Title | Python | C | Difficulty |
 | --- | --- | --- | --- | --- |
