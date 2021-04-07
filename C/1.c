@@ -8,7 +8,6 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
                 ans[0] = i;
                 ans[1] = j;
                 break;
-                
             }
         }
     }
