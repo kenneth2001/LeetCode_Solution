@@ -17,3 +17,6 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [13.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/13.py) | | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [14.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/14.py) | | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [15.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/15.py) | | Medium |
+| 16 | [3Sum Closet](https://leetcode.com/problems/3sum-closest/) | [16.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/16.py) | | Medium |
+| 17 | [Letter Combinations of a Phone Nummber](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [17.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/17.py) | | Medium |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [18.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/18.py) | | Medium |
