@@ -20,3 +20,14 @@
 | 16 | [3Sum Closet](https://leetcode.com/problems/3sum-closest/) | [16.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/16.py) | | Medium |
 | 17 | [Letter Combinations of a Phone Nummber](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [17.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/17.py) | | Medium |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [18.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/18.py) | | Medium |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [19.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/19.py) | | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [20.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/20.py) | | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [21.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/21.py) | | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [22.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/22.py) | | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [23.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/23.py) | | Hard |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [24.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/24.py) | | Medium |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [25.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/25.py) | | Hard |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/26.py) | | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/27.py) | | Easy |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [28.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/28.py) | | Easy |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [35.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/35.py) | | Easy |
