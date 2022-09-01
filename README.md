@@ -30,4 +30,9 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [26.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/26.py) | | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/27.py) | | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [28.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/28.py) | | Easy |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [29.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/29.py) | | Medium |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [31.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/31.py) | | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [35.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/35.py) | | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/58.py) | | Easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [66.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/66.py) | | Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [67.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/67.py) | | Easy |
