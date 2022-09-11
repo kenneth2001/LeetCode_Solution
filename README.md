@@ -31,8 +31,11 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [27.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/27.py) | | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [28.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/28.py) | | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [29.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/29.py) | | Medium |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [30.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/30.py) | | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [31.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/31.py) | | Medium |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [32.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/32.py) | | Hard |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [35.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/35.py) | | Easy |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/50.py) | | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/58.py) | | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [66.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/66.py) | | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [67.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/67.py) | | Easy |
