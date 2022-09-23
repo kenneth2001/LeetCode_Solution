@@ -34,8 +34,26 @@
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [30.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/30.py) | | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [31.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/31.py) | | Medium |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [32.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/32.py) | | Hard |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [33.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/33.py) | | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [34.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/34.py) | | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [35.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/35.py) | | Easy |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [36.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/36.py) | | Medium |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [37.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/37.py) | | Hard |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [38.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/38.py) | | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [39.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/39.py) | | Medium |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [40.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/40.py) | | Medium |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [41.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/41.py) | | Hard |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [42.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/42.py) | | Hard |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [43.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/43.py) | | Medium |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [44.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/44.py) | | Hard |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [45.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/45.py) | | Medium |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [46.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/46.py) | | Medium |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [47.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/47.py) | | Medium |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [48.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/48.py) | | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [49.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/49.py) | | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [50.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/50.py) | | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [58.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/58.py) | | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [66.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/66.py) | | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [67.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/67.py) | | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [69.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/69.py) | | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [70.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/69.py) | | Easy |
