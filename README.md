@@ -109,14 +109,18 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [344.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/344.py) | | | Easy |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | | | [511.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/511.sql) | Easy |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [542.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/542.py) | | | Medium |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | | | [550.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/550.sql) | Medium |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [557.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/557.py) | | | Easy |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [567.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/567.py) | | | Medium |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | | | [570.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/570.sql) | Medium |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | | | [577.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/577.sql) | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | | | [584.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/584.sql) | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | | | [586.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/586.sql) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | | | [595.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/595.sql) | Easy |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person) | | | [607.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/607.sql) | Easy |
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node) | | | [608.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/608.sql) | Medium |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [617.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/617.py) | | | Easy |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | | | [620.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/620.sql) | Easy |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | | | [627.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/627.sql) | Easy |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [695.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/695.py) | | | Medium |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [704.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/704.py) | | | Easy |
@@ -126,17 +130,28 @@
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [977.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/977.py) | | | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [994.py](https://github.com/kenneth2001/LeetCode/blob/main/Python/994.py) | | | Medium |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | | | [1050.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1050.sql) | Easy |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | | | [1068.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1068.sql) | Easy |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | | | [1075.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1075.sql) | Easy |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | | | [1084.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1084.sql) | Easy |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | | | [1141.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1141.sql) | Easy |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | | | [1148.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1148.sql) | Easy |
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i) | | | [1158.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1158.sql) | Medium |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | | | [1174.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1174.sql) | Medium |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | | | [1193.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1193.sql) | Medium |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | | | [1211.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1211.sql) | Easy |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | | | [1251.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1251.sql) | Easy |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | | | [1280.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1280.sql) | Easy |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | | | [1378.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1378.sql) | Easy |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gain/loss) | | | [1393.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1393.sql) | Medium |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | | | [1407.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1407.sql) | Easy |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | | | [1484.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1484.sql) | Easy |
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | | | [1527.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1527.sql) | Easy |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | | | [1581.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1581.sql) | Easy |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | | | [1587.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1587.sql) | Easy |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | | | [1633.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1633.sql) | Easy |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | | | [1661.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1661.sql) | Easy |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) | | | [1667.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1667.sql) | Easy |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | | | [1683.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1683.sql) | Easy |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | | | [1693.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1693.sql) | Easy |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | | | [1729.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1729.sql) | Easy |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | | | [1741.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1741.sql) | Easy |
@@ -144,4 +159,6 @@
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | | | [1795.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1795.sql) | Easy |
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | | | [1873.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1873.sql) | Easy |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | | | [1890.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1890.sql) | Easy |
+| 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate) | | | [1934.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1934.sql) | Medium |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | | | [1965.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/1965.sql) | Easy |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | | | [2356.sql](https://github.com/kenneth2001/LeetCode/blob/main/SQL/2356.sql) | Easy |
